@@ -28,10 +28,10 @@
         }
     },
     "devDependencies": {
-        "electron": "^11.1.1",
+        "electron": "^11.2.0",
         "electron-builder": "^22.9.1",
         "electron-rebuild": "^2.3.4",
-        "husky": "^4.3.7",
+        "husky": "^4.3.8",
         "prettier": "^2.2.1",
         "pretty-quick": "^2.0.2"
     },
@@ -51,12 +51,12 @@
         "js-base64": "^3.6.0",
         "markdown": "^0.5.0",
         "node-fetch": "^2.6.1",
-        "node-vibrant": "^3.1.5",
+        "node-vibrant": "^3.1.6",
         "postscribe": "^2.0.8",
         "qrcode-generator": "^1.4.4",
         "register-scheme": "0.0.2",
         "scribble": "github:dittodhole/node-scribble-js#a2b37f585c5382863319115db36201399477ed43",
-        "socket.io": "^2.3.0",
+        "socket.io": "^2.4.1",
         "uuid": "^8.3.2",
         "ws": "^7.4.2"
     },
