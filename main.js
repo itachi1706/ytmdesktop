@@ -148,6 +148,8 @@ if (isMac()) {
     )
     const menu = Menu.buildFromTemplate(statusBarMenu)
     Menu.setApplicationMenu(menu)
+
+    systemPreferences.isTrustedAccessibilityClient(true)
 }
 
 if (settingsProvider.get('settings-disable-hardware-acceleration'))
