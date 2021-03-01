@@ -31,7 +31,7 @@
         "electron": "^10.1.1",
         "electron-builder": "^22.8.0",
         "electron-rebuild": "^2.0.1",
-        "husky": "^4.2.5",
+        "husky": "^5.1.2",
         "prettier": "^2.0.5",
         "pretty-quick": "^2.0.1"
     },
