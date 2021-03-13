@@ -1363,7 +1363,7 @@ electron-log@^4.3.1:
 
 "electron-media-service@github:tidal-engineering/electron-media-service":
   version "0.2.6"
-  resolved "git+ssh://git@github.com/tidal-engineering/electron-media-service.git#4fdb3d43a74b274a53261b11aa5c11a4f5a9d62f"
+  resolved "git+https://github.com/tidal-engineering/electron-media-service.git#4fdb3d43a74b274a53261b11aa5c11a4f5a9d62f"
   dependencies:
     bindings "^1.5.0"
     node-addon-api "^3.0.2"
@@ -4080,7 +4080,7 @@ widest-line@^3.1.0:
 
 "windows.media.playback@git+https://github.com/NovusTheory/nodert-windows.media.playback.git":
   version "0.1.0"
-  resolved "git+ssh://git@github.com/NovusTheory/nodert-windows.media.playback.git#855edf625b2762caa89dc7aab0b686d535b79f34"
+  resolved "git+https://github.com/NovusTheory/nodert-windows.media.playback.git#855edf625b2762caa89dc7aab0b686d535b79f34"
   dependencies:
     nan latest
 
